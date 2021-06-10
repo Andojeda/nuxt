@@ -3,7 +3,7 @@
         <div>
             <Logo />
             <h1 class="title">
-                Tema y repositorio diferente
+                Tema diferente
             </h1>
             <BaseButtonHomePage /> <hr>
             <BaseButtonPage2 /> <hr>
