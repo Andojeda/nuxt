@@ -5,9 +5,9 @@
       <h1 class="title">
         prueba
       </h1>
-      <BaseButton />       <hr>
-      <NuxtLink to="/prueba2"> <el-button type="danger"> Prueba 2 </el-button> </NuxtLink> <hr>
-      <NuxtLink to="/pages-prueba/"> <el-button type="info"> Prueba Carpeta 3 </el-button> </NuxtLink>
+      <BaseButtonPage1 /> <hr>
+      <BaseButtonPage2 /> <hr>
+      <BaseButtonFolderPage3 />
     </div>
   </div>
 </template>

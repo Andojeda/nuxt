@@ -4,9 +4,9 @@
         <h1 class="title">
             Carpeta de pruebas
         </h1>
-        <NuxtLink to="/"> <el-button type="primary"> Inicio </el-button> </NuxtLink> <hr>
-      <BaseButton />       <hr>
-      <NuxtLink to="/prueba2"> <el-button type="danger"> Prueba 2 </el-button> </NuxtLink>
+        <BaseButtonHomePage /> <hr>
+        <BaseButtonPage1 /> <hr>
+        <BaseButtonPage2 />
     </div>
 </template>
 

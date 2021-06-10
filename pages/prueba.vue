@@ -5,18 +5,9 @@
             <h1 class="title">
                 Tema y repositorio diferente
             </h1>
-            <NuxtLink to="/"> <el-button type="primary">
-                  Inicio
-              </el-button>
-            </NuxtLink> <hr>
-            <NuxtLink to="/prueba2"> <el-button type="danger">
-                  Prueba 2
-              </el-button>
-            </NuxtLink> <hr>
-            <NuxtLink to="/pages-prueba/"> <el-button type="info">
-                  Prueba Carpeta 3
-              </el-button>
-            </NuxtLink>
+            <BaseButtonHomePage /> <hr>
+            <BaseButtonPage2 /> <hr>
+            <BaseButtonFolderPage3 />
         </div>
     </div>
 </template>
