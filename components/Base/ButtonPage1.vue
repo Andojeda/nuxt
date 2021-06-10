@@ -1,3 +1,3 @@
 <template>
-   <NuxtLink to="/prueba"> <el-button type="success"> Prueba 1 </el-button> </NuxtLink>
+   <NuxtLink to="/prueba"> <el-button type="success"> Prueba nro 1 </el-button> </NuxtLink>
 </template>
